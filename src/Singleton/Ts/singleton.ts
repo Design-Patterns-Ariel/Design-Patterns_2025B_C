@@ -19,3 +19,4 @@ console.log("Alice selected WZ hotel");
 let aliceObj:Singleton=Singleton.getInstance();
 aliceObj.hotelList.push("WZ");
 console.log(aliceObj.hotelList); //--> [ 'XY', 'WZ' ]
+

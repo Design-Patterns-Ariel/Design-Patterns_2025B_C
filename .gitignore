@@ -29,3 +29,6 @@ bin/
 .DS_Store
 src/*
 !src/Singleton
+!src/Iterator
+!src/Builder
+!src/Facade

@@ -2,7 +2,6 @@ using System;
 
 namespace ConsoleApp1
 {
-
     class Singleton
     {
         private Singleton() { }
@@ -24,7 +23,7 @@ namespace ConsoleApp1
             Singleton s1 = Singleton.GetInstance();
             Singleton s2 = Singleton.GetInstance();
 
-            Console.WriteLine(s1==s2);  //--> True
+            Console.WriteLine(s1==s2);
         }
     }
 }
