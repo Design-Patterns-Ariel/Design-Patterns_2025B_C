@@ -32,3 +32,5 @@ src/*
 !src/Iterator
 !src/Builder
 !src/Facade
+!src/Observer
+!src/Prototype
