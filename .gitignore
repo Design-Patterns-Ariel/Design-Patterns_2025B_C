@@ -35,3 +35,4 @@ src/*
 !src/Observer
 !src/Prototype
 !src/Factory
+!src/Example
