@@ -34,3 +34,4 @@ src/*
 !src/Facade
 !src/Observer
 !src/Prototype
+!src/Factory
